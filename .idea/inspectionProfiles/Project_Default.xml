@@ -1,0 +1,47 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="18">
+            <item index="0" class="java.lang.String" itemvalue="ws4py" />
+            <item index="1" class="java.lang.String" itemvalue="tornado" />
+            <item index="2" class="java.lang.String" itemvalue="pydantic" />
+            <item index="3" class="java.lang.String" itemvalue="antlr4-python3-runtime" />
+            <item index="4" class="java.lang.String" itemvalue="xlwt" />
+            <item index="5" class="java.lang.String" itemvalue="asgi-correlation-id" />
+            <item index="6" class="java.lang.String" itemvalue="sentry_sdk" />
+            <item index="7" class="java.lang.String" itemvalue="redis" />
+            <item index="8" class="java.lang.String" itemvalue="feishu_sdk" />
+            <item index="9" class="java.lang.String" itemvalue="fastapi" />
+            <item index="10" class="java.lang.String" itemvalue="func_timeout" />
+            <item index="11" class="java.lang.String" itemvalue="mpmath" />
+            <item index="12" class="java.lang.String" itemvalue="uvicorn" />
+            <item index="13" class="java.lang.String" itemvalue="vine" />
+            <item index="14" class="java.lang.String" itemvalue="xlrd" />
+            <item index="15" class="java.lang.String" itemvalue="lambda-warmer-py" />
+            <item index="16" class="java.lang.String" itemvalue="mangum" />
+            <item index="17" class="java.lang.String" itemvalue="aiohttp" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N803" />
+          <option value="N806" />
+          <option value="N802" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="list.split" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
