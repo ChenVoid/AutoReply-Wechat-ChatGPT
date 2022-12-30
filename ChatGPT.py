@@ -3,7 +3,7 @@ import openai
 
 import textwrap
 
-openai.api_key = "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"
+openai.api_key = "Your OpenAI API key"
 
 
 def generate_response(prompt):
